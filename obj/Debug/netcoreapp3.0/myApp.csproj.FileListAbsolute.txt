@@ -1,0 +1,11 @@
+/Users/tc/CSHARP/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/tc/CSHARP/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/tc/CSHARP/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/tc/CSHARP/myApp/bin/Debug/netcoreapp3.0/myApp
+/Users/tc/CSHARP/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/tc/CSHARP/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/tc/CSHARP/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/tc/CSHARP/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/tc/CSHARP/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/tc/CSHARP/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/tc/CSHARP/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
