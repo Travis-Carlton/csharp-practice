@@ -37,7 +37,9 @@ namespace myApp
 
             DateTime date = new DateTime();
             Console.WriteLine(date.ToString());
-
+            FileMod fm = new FileMod("./Sample/Hey.cs", "./Sample/Hey2.cs");
+            // var test = Console.ReadLine();
+            // Console.WriteLine(test);
         }
 
         static public string randomMethod()
